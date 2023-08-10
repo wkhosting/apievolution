@@ -7,8 +7,8 @@
 # Choose the server type for the application
 SERVER:
   TYPE: http # https
-  PORT: 8080 # 443
-  URL: localhost
+  PORT: 8282 # 443
+  URL: http://143.198.36.86:8282
 
 CORS:
   ORIGIN:
